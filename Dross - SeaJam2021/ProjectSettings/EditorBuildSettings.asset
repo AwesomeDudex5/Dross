@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a7f87cd5e1af1da48a3c127c4be24ac3
+  - enabled: 1
+    path: Assets/Scenes/Beginning Comic.unity
+    guid: 0729f4b1216f3c548bbef734fa6b473e
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 11005b89d252cff42b39aebd3ffbfb55
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: ba5956409d74117408b3acd288f7e4db
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 666370fd1e396bd45b1dda3b05fc9129
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 4c3f75d2b3d40a843a586362680737c1
+  - enabled: 1
+    path: Assets/Scenes/Level5-1.unity
+    guid: f3250cfd2cbfbd7478ec04b1bfcf6d59
+  - enabled: 1
+    path: Assets/Scenes/Level5-2.unity
+    guid: 2a9a712425d5b4647918fc4e357407af
+  - enabled: 1
+    path: Assets/Scenes/Level 6.unity
+    guid: ac8cff778f8704a4ea7c446731be75c9
+  - enabled: 1
+    path: Assets/Scenes/Ending Comic.unity
+    guid: 078b9c70c070aa94190c2d5005513863
+  - enabled: 1
+    path: Assets/Scenes/Ending Choose.unity
+    guid: 206e1934ab1c2f04081985d552efd070
+  - enabled: 1
+    path: Assets/Scenes/Ending-Sai.unity
+    guid: 920b08d86c576844692b77e0f637cb35
+  - enabled: 1
+    path: Assets/Scenes/Ending-Mancy.unity
+    guid: 641b432f25847644abd53b4ff7ee55cd
+  - enabled: 1
+    path: Assets/Scenes/Ending-Tillie.unity
+    guid: fa6e4f0a2550a9d46b90a3fdb18edb73
+  - enabled: 1
+    path: Assets/Scenes/Ending-Angela.unity
+    guid: b932b02c5afe40d4a81a61d29e938ac5
+  - enabled: 1
+    path: Assets/Scenes/Ending-Sera.unity
+    guid: 29f34c60b6ea6214b9796ff490afa79e
+  - enabled: 1
+    path: Assets/Scenes/Beginning - Gura.unity
+    guid: 094901e8a9b152d48840d604044fe1cc
+  - enabled: 1
+    path: Assets/Scenes/Level6-Gura.unity
+    guid: ba936af6cc5cead43a0f5cc50fa17b65
+  - enabled: 1
+    path: Assets/Scenes/Level6-Gura-2.unity
+    guid: 06bcfd1348ca04444a410ac8f38d32b2
+  - enabled: 1
+    path: Assets/Scenes/Ending Choose-Gura.unity
+    guid: cc5ff8d1949507a49a3189d546893af8
+  - enabled: 1
+    path: Assets/Scenes/Ending-Gura.unity
+    guid: 4d32bcc8cd1a5a746840e35aeb80be7c
+  m_configObjects: {}
